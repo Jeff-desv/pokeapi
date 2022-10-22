@@ -5,8 +5,8 @@
 <br>
 <br<
 <ol>
-  <span> Siga os Passos a Seguir para Vizualizar o Projeto </span>
-  <br>
+  <span> Siga os Passos a Seguir para Vizualizar o Projeto </span> <br>
+  <hr>
   <li> Clone o Repositório </li>
   <li> Abra com seu editor de Preferência </li>
   <li> Inicie o Servidor: <br>
